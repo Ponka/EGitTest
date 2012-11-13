@@ -1,0 +1,12 @@
+This is Ponka's way of using Eclipse with github.com.
+
+1) Install Eclipse.
+2) Run Eclipse and go to Help->Install New Software
+3) Press 'Add' button
+4) Type in 'git' as a name and 'http://download.eclipse.org/releases/juno' as a location
+5) Now you can 'work with' added 'git' plugins collections
+6) Select 'collaboration'
+7) Press 'next' button and do whatever needed
+8) When installed you can use it by right-clicking on the project and selecting 'Team'->'remote'->'push'
+
+If somebody actually have read this and needs more information, please contact user Ponka on github.  
